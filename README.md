@@ -1,1 +1,3 @@
 # Coronski
+Coronski adalah sebuah game sederhana yang mengangkat tema seorang dokter yang memerangi penyebaran virus corona. Game ini dikembangkan menggunakan bahasa pemrograman Python dan merupakan hasil modifikasi dari permainan "space invaders" yang ditemukan di YouTube. Coronski dibuat sebagai proyek akhir dari program "Indonesian Women in Tech: Programming with Python." Program ini merupakan hasil kolaborasi antara Kementerian Komunikasi dan Informatika dengan Cisco Systems, Cisco Networking Academy, dan International Telecommunication Union (ITU).
+![Screenshot Game Coronksi](./Coronski.png)
